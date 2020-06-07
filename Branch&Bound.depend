@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591541682 source:d:\derde jaar\eerste semester\reii 313\branch&bound\main.cpp
+	<iostream>
+	<limits>
+	<cstring>
+	<cstdlib>
+	<cmath>
+	<queue>
+	<bits/stdc++.h>
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+
